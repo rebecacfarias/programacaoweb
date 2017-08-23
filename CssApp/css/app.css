@@ -1,0 +1,15 @@
+p {
+    color: crimson;
+    border: 1px solid mistyrose;
+}
+h1{
+    color:firebrick;
+}
+body{
+    font-family: fantasy;
+    text-align: center;
+}
+.especial{
+    color: coral;
+    border: 1px solid mistyrose; 
+}
